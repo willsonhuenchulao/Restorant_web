@@ -1,0 +1,15 @@
+@media (min-width: 640px) {
+    .menu-toggle {
+      display: none;
+    }
+  }
+
+  body{
+    background-color: #161616;
+  }
+
+  @import url('https://fonts.googleapis.com/css2?family=Brush+Script+MT&display=swap');
+
+.font-brush-script {
+  font-family: 'Brush Script MT', cursive;
+}
